@@ -7,7 +7,8 @@
 
 ## Matrícula dos Componentes da Dupla
 
-- **Componente 1**: 222100006 
+- **Aluno1**: 222100006
+- **Aluno2**: 123100058
 
 ## Captura de Tela do Aplicativo
 
